@@ -1,0 +1,5 @@
+{
+    "SECRET_KEY": "56863509cfa105c2ba0a7d651e26bb7f0d81f77f00f61c3509e75ca5df9caaa3",
+    "DB_URI": "main.db",
+    "ROUNDS": 10
+}

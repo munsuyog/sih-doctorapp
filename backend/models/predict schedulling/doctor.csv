@@ -1,0 +1,42 @@
+Disease,Type_of_Doctor
+Fungal Infection,Dermatologist
+Allergy,Allergist
+GERD (Gastroesophageal Reflux Disease),Gastroenterologist
+Chronic Cholestasis,Gastroenterologist
+Drug Reaction,General Practitioner
+Peptic Ulcer Disease,Gastroenterologist
+AIDS (Acquired Immunodeficiency Syndrome),Infectious Disease Specialist
+Diabetes,Endocrinologist
+Gastroenteritis,Gastroenterologist
+Bronchial Asthma,Pulmonologist
+Hypertension,Cardiologist
+Migraine,Neurologist
+Cervical Spondylosis,Orthopedic Surgeon
+Paralysis (Brain Hemorrhage),Neurologist
+Jaundice,Gastroenterologist
+Malaria,Infectious Disease Specialist
+Chickenpox,General Practitioner 
+Dengue,General Practitioner 
+Typhoid,Infectious Disease Specialist
+Hepatitis A,Gastroenterologist 
+Hepatitis B,Gastroenterologist
+Hepatitis C,Gastroenterologist
+Hepatitis D,Gastroenterologist
+Hepatitis E,Gastroenterologist 
+Alcoholic Hepatitis,Gastroenterologist
+Tuberculosis,Pulmonologist
+Common Cold,General Practitioner (GP)
+Pneumonia,Pulmonologist
+Dimorphic Hemorrhoids (Piles),General Surgeon
+Heart Attack,Cardiologist
+Varicose Veins,Vascular Surgeon
+Hypothyroidism,Endocrinologist
+Hyperthyroidism,Endocrinologist
+Hypoglycemia,Endocrinologist
+Osteoarthritis,Rheumatologist
+Arthritis,Rheumatologist
+(Vertigo) Paroxysmal Positional Vertigo,ENT Specialist
+Acne,Dermatologist
+Urinary Tract Infection,Urologist
+Psoriasis,Dermatologist
+Impetigo,Dermatologist
